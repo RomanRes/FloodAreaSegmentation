@@ -3,7 +3,7 @@ This notebook includes training a model for <a href="https://www.kaggle.com/comp
 Training was done with augmented data generated using the Albumentations library. 
 The model showed an accuracy of 0.9 on the test set and 0.92 on the entire dataset.
 
-![Examples of segmentation predictions](main/pred_example.jpg)
+![Examples of segmentation predictions](pred_example.jpg)
 
 
 The dataset is hosted on kaggle.com 
