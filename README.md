@@ -10,6 +10,3 @@ The dataset is hosted on kaggle.com
 
 https://www.kaggle.com/datasets/faizalkarim/flood-area-segmentation
 
-Link to my notebook on kaggle
-
-https://www.kaggle.com/code/romanresner/flood-area-unet-albumentations-0-9-on-testset
